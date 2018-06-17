@@ -20,3 +20,5 @@ Inspiration:
 - https://en.wikipedia.org/wiki/Filesystem_in_Userspace
 - https://www.stavros.io/posts/python-fuse-filesystem/
 - https://github.com/skorokithakis/python-fuse-sample
+- https://github.com/kiwiz/gkeepapi
+- https://github.com/Nekmo/gkeep
